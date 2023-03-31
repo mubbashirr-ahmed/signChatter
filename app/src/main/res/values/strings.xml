@@ -21,4 +21,5 @@
     <string name="follow_these_instructions_for_better_predictions">Follow these Instructions for better predictions.</string>
     <string name="signchatter_is_the_world_s_first_sign_language_translation_app_that_takes_body_movement_into_account_while_detecting_and_translating_signs_hence_giving_more_accurate_translations_and_being_able_to_translate_a_lot_more_signs_than_singular_frame_based_sign_language_translation_apps_the_app_currently_supports_only_american_sign_language_but_support_for_other_languages_will_be_added_soon">SignChatter is the world’s first sign language translation app that takes body movement into account while detecting and translating signs hence, giving more accurate translations and being able to translate a lot more signs than singular-frame based sign language translation apps. The app currently supports only American Sign Language but support for other languages will be added soon.</string>
     <string name="getting_prediction">Getting Prediction....</string>
+    <string name="tap_any_item_to_watch_tutorial">Tap any item to watch tutorial</string>
 </resources>
